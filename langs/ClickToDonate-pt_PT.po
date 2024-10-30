@@ -1,0 +1,1123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClickToDonate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-10 20:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
+"Language-Team: Cláudio Esperança, Diogo Serra <cesperanc@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;__ngettext:1,2;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../php/ClickToDonateGraphBannersView.php:45
+#: ../php/ClickToDonateGraphParticipantsView.php:45
+msgid "Loading..."
+msgstr "A carregar..."
+
+#: ../php/ClickToDonateGraphBannersView.php:46
+#: ../php/ClickToDonateGraphParticipantsView.php:46
+msgid "Without data to show"
+msgstr "Sem dados para apresentar"
+
+#: ../php/ClickToDonateGraphBannersView.php:47
+#: ../php/ClickToDonateGraphParticipantsView.php:47
+msgid "Sorry, but the Google Chart API was not found. Probably there is no Internet connection available."
+msgstr "Lamentamos, mas a API do Google Chart não foi encontrada. Possivelmente não existe uma ligação à Internet."
+
+#: ../php/ClickToDonateGraphBannersView.php:48
+#: ../php/ClickToDonateGraphBannersView.php:225
+#: ../php/ClickToDonateGraphParticipantsView.php:48
+msgid "Day"
+msgstr "Dia"
+
+#: ../php/ClickToDonateGraphBannersView.php:49
+#: ../php/ClickToDonateGraphBannersView.php:159
+#: ../php/ClickToDonateGraphParticipantsView.php:49
+msgid "Days"
+msgstr "Dias"
+
+#: ../php/ClickToDonateGraphBannersView.php:50
+#: ../php/ClickToDonateGraphParticipantsView.php:50
+msgid "Total visits"
+msgstr "Número total de visitas"
+
+#: ../php/ClickToDonateGraphBannersView.php:51
+#: ../php/ClickToDonateGraphParticipantsView.php:51
+msgid "Private method {0} does not exist"
+msgstr "O método privado {0} não existe"
+
+#: ../php/ClickToDonateGraphBannersView.php:52
+#: ../php/ClickToDonateGraphParticipantsView.php:52
+msgid "Method {0} does not exist"
+msgstr "O método {0} não existe"
+
+#: ../php/ClickToDonateGraphBannersView.php:53
+#: ../php/ClickToDonateView.php:81
+#: ../php/ClickToDonateView.php:167
+#: ../php/ClickToDonateGraphParticipantsView.php:53
+msgid "Done"
+msgstr "Feito"
+
+#: ../php/ClickToDonateGraphBannersView.php:54
+#: ../php/ClickToDonateView.php:82
+#: ../php/ClickToDonateGraphParticipantsView.php:54
+msgid "Today"
+msgstr "Hoje"
+
+#: ../php/ClickToDonateGraphBannersView.php:55
+#: ../php/ClickToDonateView.php:83
+#: ../php/ClickToDonateGraphParticipantsView.php:55
+msgid "mm/dd/yy"
+msgstr "dd/mm/yy"
+
+#: ../php/ClickToDonateGraphBannersView.php:56
+#: ../php/ClickToDonateView.php:84
+#: ../php/ClickToDonateGraphParticipantsView.php:56
+msgid "Sunday"
+msgstr "Domingo"
+
+#: ../php/ClickToDonateGraphBannersView.php:57
+#: ../php/ClickToDonateView.php:85
+#: ../php/ClickToDonateGraphParticipantsView.php:57
+msgid "Monday"
+msgstr "Segunda-feira"
+
+#: ../php/ClickToDonateGraphBannersView.php:58
+#: ../php/ClickToDonateView.php:86
+#: ../php/ClickToDonateGraphParticipantsView.php:58
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+#: ../php/ClickToDonateGraphBannersView.php:59
+#: ../php/ClickToDonateView.php:87
+#: ../php/ClickToDonateGraphParticipantsView.php:59
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+#: ../php/ClickToDonateGraphBannersView.php:60
+#: ../php/ClickToDonateView.php:88
+#: ../php/ClickToDonateGraphParticipantsView.php:60
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+#: ../php/ClickToDonateGraphBannersView.php:61
+#: ../php/ClickToDonateView.php:89
+#: ../php/ClickToDonateGraphParticipantsView.php:61
+msgid "Friday"
+msgstr "Sexta"
+
+#: ../php/ClickToDonateGraphBannersView.php:62
+#: ../php/ClickToDonateView.php:90
+#: ../php/ClickToDonateGraphParticipantsView.php:62
+msgid "Saturday"
+msgstr "Sábado"
+
+#: ../php/ClickToDonateGraphBannersView.php:63
+#: ../php/ClickToDonateView.php:91
+#: ../php/ClickToDonateGraphParticipantsView.php:63
+msgid "Su"
+msgstr "Do"
+
+#: ../php/ClickToDonateGraphBannersView.php:64
+#: ../php/ClickToDonateView.php:92
+#: ../php/ClickToDonateGraphParticipantsView.php:64
+msgid "Mo"
+msgstr "Se"
+
+#: ../php/ClickToDonateGraphBannersView.php:65
+#: ../php/ClickToDonateView.php:93
+#: ../php/ClickToDonateGraphParticipantsView.php:65
+msgid "Tu"
+msgstr "Te"
+
+#: ../php/ClickToDonateGraphBannersView.php:66
+#: ../php/ClickToDonateView.php:94
+#: ../php/ClickToDonateGraphParticipantsView.php:66
+msgid "We"
+msgstr "Qu"
+
+#: ../php/ClickToDonateGraphBannersView.php:67
+#: ../php/ClickToDonateView.php:95
+#: ../php/ClickToDonateGraphParticipantsView.php:67
+msgid "Th"
+msgstr "Qu"
+
+#: ../php/ClickToDonateGraphBannersView.php:68
+#: ../php/ClickToDonateView.php:96
+#: ../php/ClickToDonateGraphParticipantsView.php:68
+msgid "Fr"
+msgstr "Se"
+
+#: ../php/ClickToDonateGraphBannersView.php:69
+#: ../php/ClickToDonateView.php:97
+#: ../php/ClickToDonateGraphParticipantsView.php:69
+msgid "Sa"
+msgstr "Sa"
+
+#: ../php/ClickToDonateGraphBannersView.php:70
+#: ../php/ClickToDonateView.php:98
+#: ../php/ClickToDonateGraphParticipantsView.php:70
+msgid "Sun"
+msgstr "Dom"
+
+#: ../php/ClickToDonateGraphBannersView.php:71
+#: ../php/ClickToDonateView.php:99
+#: ../php/ClickToDonateGraphParticipantsView.php:71
+msgid "Mon"
+msgstr "Seg"
+
+#: ../php/ClickToDonateGraphBannersView.php:72
+#: ../php/ClickToDonateView.php:100
+#: ../php/ClickToDonateGraphParticipantsView.php:72
+msgid "Tue"
+msgstr "Ter"
+
+#: ../php/ClickToDonateGraphBannersView.php:73
+#: ../php/ClickToDonateView.php:101
+#: ../php/ClickToDonateGraphParticipantsView.php:73
+msgid "Wed"
+msgstr "Qua"
+
+#: ../php/ClickToDonateGraphBannersView.php:74
+#: ../php/ClickToDonateView.php:102
+#: ../php/ClickToDonateGraphParticipantsView.php:74
+msgid "Thu"
+msgstr "Qui"
+
+#: ../php/ClickToDonateGraphBannersView.php:75
+#: ../php/ClickToDonateView.php:103
+#: ../php/ClickToDonateGraphParticipantsView.php:75
+msgid "Fri"
+msgstr "Sex"
+
+#: ../php/ClickToDonateGraphBannersView.php:76
+#: ../php/ClickToDonateView.php:104
+#: ../php/ClickToDonateGraphParticipantsView.php:76
+msgid "Sat"
+msgstr "Sáb"
+
+#: ../php/ClickToDonateGraphBannersView.php:77
+#: ../php/ClickToDonateView.php:105
+#: ../php/ClickToDonateGraphParticipantsView.php:77
+msgid "January"
+msgstr "Janeiro"
+
+#: ../php/ClickToDonateGraphBannersView.php:78
+#: ../php/ClickToDonateView.php:106
+#: ../php/ClickToDonateGraphParticipantsView.php:78
+msgid "February"
+msgstr "Fevereiro"
+
+#: ../php/ClickToDonateGraphBannersView.php:79
+#: ../php/ClickToDonateView.php:107
+#: ../php/ClickToDonateGraphParticipantsView.php:79
+msgid "March"
+msgstr "Março"
+
+#: ../php/ClickToDonateGraphBannersView.php:80
+#: ../php/ClickToDonateView.php:108
+#: ../php/ClickToDonateGraphParticipantsView.php:80
+msgid "April"
+msgstr "Abril"
+
+#: ../php/ClickToDonateGraphBannersView.php:81
+#: ../php/ClickToDonateGraphBannersView.php:93
+#: ../php/ClickToDonateView.php:109
+#: ../php/ClickToDonateView.php:121
+#: ../php/ClickToDonateGraphParticipantsView.php:81
+#: ../php/ClickToDonateGraphParticipantsView.php:93
+msgid "May"
+msgstr "Maio"
+
+#: ../php/ClickToDonateGraphBannersView.php:82
+#: ../php/ClickToDonateView.php:110
+#: ../php/ClickToDonateGraphParticipantsView.php:82
+msgid "June"
+msgstr "Junho"
+
+#: ../php/ClickToDonateGraphBannersView.php:83
+#: ../php/ClickToDonateView.php:111
+#: ../php/ClickToDonateGraphParticipantsView.php:83
+msgid "July"
+msgstr "Julho"
+
+#: ../php/ClickToDonateGraphBannersView.php:84
+#: ../php/ClickToDonateView.php:112
+#: ../php/ClickToDonateGraphParticipantsView.php:84
+msgid "August"
+msgstr "Agosto"
+
+#: ../php/ClickToDonateGraphBannersView.php:85
+#: ../php/ClickToDonateView.php:113
+#: ../php/ClickToDonateGraphParticipantsView.php:85
+msgid "September"
+msgstr "Setembro"
+
+#: ../php/ClickToDonateGraphBannersView.php:86
+#: ../php/ClickToDonateView.php:114
+#: ../php/ClickToDonateGraphParticipantsView.php:86
+msgid "October"
+msgstr "Outubro"
+
+#: ../php/ClickToDonateGraphBannersView.php:87
+#: ../php/ClickToDonateView.php:115
+#: ../php/ClickToDonateGraphParticipantsView.php:87
+msgid "November"
+msgstr "Novembro"
+
+#: ../php/ClickToDonateGraphBannersView.php:88
+#: ../php/ClickToDonateView.php:116
+#: ../php/ClickToDonateGraphParticipantsView.php:88
+msgid "December"
+msgstr "Dezembro"
+
+#: ../php/ClickToDonateGraphBannersView.php:89
+#: ../php/ClickToDonateView.php:117
+#: ../php/ClickToDonateGraphParticipantsView.php:89
+msgid "Jan"
+msgstr "Jan"
+
+#: ../php/ClickToDonateGraphBannersView.php:90
+#: ../php/ClickToDonateView.php:118
+#: ../php/ClickToDonateGraphParticipantsView.php:90
+msgid "Feb"
+msgstr "Fev"
+
+#: ../php/ClickToDonateGraphBannersView.php:91
+#: ../php/ClickToDonateView.php:119
+#: ../php/ClickToDonateGraphParticipantsView.php:91
+msgid "Mar"
+msgstr "Mar"
+
+#: ../php/ClickToDonateGraphBannersView.php:92
+#: ../php/ClickToDonateView.php:120
+#: ../php/ClickToDonateGraphParticipantsView.php:92
+msgid "Apr"
+msgstr "Abr"
+
+#: ../php/ClickToDonateGraphBannersView.php:94
+#: ../php/ClickToDonateView.php:122
+#: ../php/ClickToDonateGraphParticipantsView.php:94
+msgid "Jun"
+msgstr "Jun"
+
+#: ../php/ClickToDonateGraphBannersView.php:95
+#: ../php/ClickToDonateView.php:123
+#: ../php/ClickToDonateGraphParticipantsView.php:95
+msgid "Jul"
+msgstr "Jul"
+
+#: ../php/ClickToDonateGraphBannersView.php:96
+#: ../php/ClickToDonateView.php:124
+#: ../php/ClickToDonateGraphParticipantsView.php:96
+msgid "Aug"
+msgstr "Ago"
+
+#: ../php/ClickToDonateGraphBannersView.php:97
+#: ../php/ClickToDonateView.php:125
+#: ../php/ClickToDonateGraphParticipantsView.php:97
+msgid "Sep"
+msgstr "Set"
+
+#: ../php/ClickToDonateGraphBannersView.php:98
+#: ../php/ClickToDonateView.php:126
+#: ../php/ClickToDonateGraphParticipantsView.php:98
+msgid "Oct"
+msgstr "Out"
+
+#: ../php/ClickToDonateGraphBannersView.php:99
+#: ../php/ClickToDonateView.php:127
+#: ../php/ClickToDonateGraphParticipantsView.php:99
+msgid "Nov"
+msgstr "Nov"
+
+#: ../php/ClickToDonateGraphBannersView.php:100
+#: ../php/ClickToDonateView.php:128
+#: ../php/ClickToDonateGraphParticipantsView.php:100
+msgid "Dec"
+msgstr "Dez"
+
+#: ../php/ClickToDonateGraphBannersView.php:101
+#: ../php/ClickToDonateView.php:129
+#: ../php/ClickToDonateGraphParticipantsView.php:101
+msgid "Next"
+msgstr "Seguinte"
+
+#: ../php/ClickToDonateGraphBannersView.php:102
+#: ../php/ClickToDonateView.php:130
+#: ../php/ClickToDonateGraphParticipantsView.php:102
+msgid "Prev"
+msgstr "Anterior"
+
+#: ../php/ClickToDonateGraphBannersView.php:103
+#: ../php/ClickToDonateView.php:131
+#: ../php/ClickToDonateGraphParticipantsView.php:103
+msgid "Wk"
+msgstr "Sm"
+
+#: ../php/ClickToDonateGraphBannersView.php:130
+msgid "Campaigns views"
+msgstr "Visualizações de Campanhas"
+
+#: ../php/ClickToDonateGraphBannersView.php:140
+msgid "Campaign views"
+msgstr "Visualizações da Campanha"
+
+#: ../php/ClickToDonateGraphBannersView.php:152
+#: ../php/ClickToDonateGraphParticipantsView.php:153
+msgid "Period start date:"
+msgstr "Data de início do período:"
+
+#: ../php/ClickToDonateGraphBannersView.php:154
+#: ../php/ClickToDonateGraphParticipantsView.php:155
+msgid "Period end date:"
+msgstr "Data de fim do período:"
+
+#: ../php/ClickToDonateGraphBannersView.php:156
+msgid "Period granularity:"
+msgstr "Granularidade do período:"
+
+#: ../php/ClickToDonateGraphBannersView.php:160
+msgid "Months"
+msgstr "Meses"
+
+#: ../php/ClickToDonateGraphBannersView.php:161
+msgid "Years"
+msgstr "Anos"
+
+#: ../php/ClickToDonateGraphBannersView.php:164
+#: ../php/ClickToDonateGraphParticipantsView.php:158
+msgid "Load"
+msgstr "Carregar"
+
+#: ../php/ClickToDonateGraphBannersView.php:218
+msgid "Year"
+msgstr "Ano"
+
+#: ../php/ClickToDonateGraphBannersView.php:221
+msgid "Month"
+msgstr "Mês"
+
+#: ../php/ClickToDonateGraphBannersView.php:229
+msgid "Total"
+msgstr "Total"
+
+#: ../php/ClickToDonateView.php:137
+#: ../php/ClickToDonateView.php:150
+msgid "Click-to-donate campaigns"
+msgstr "Campanhas Click-to-donate"
+
+#: ../php/ClickToDonateView.php:143
+#: ../php/ClickToDonateView.php:418
+msgid "Campaign configuration"
+msgstr "Configuração da campanha"
+
+#: ../php/ClickToDonateView.php:159
+msgid "Campaigns association"
+msgstr "Associação a campanhas"
+
+#: ../php/ClickToDonateView.php:168
+msgid "Insert/edit link"
+msgstr "Inserir/editar ligação"
+
+#: ../php/ClickToDonateView.php:169
+msgid "Update"
+msgstr "Atualizar"
+
+#: ../php/ClickToDonateView.php:170
+msgid "Add Link"
+msgstr "Adicionar Ligação"
+
+#: ../php/ClickToDonateView.php:171
+msgid "(no title)"
+msgstr "(sem título)"
+
+#: ../php/ClickToDonateView.php:172
+msgid "No matches found."
+msgstr "Não foram encontradas resultados."
+
+#: ../php/ClickToDonateView.php:173
+msgid "Loading campaign {0} title..."
+msgstr "A carregar o título da campanha {0}"
+
+#: ../php/ClickToDonateView.php:196
+msgid ""
+"\n"
+"                <p>Campaigns <strong>Click-to-donate</strong> are a special type of content that allow the accounting of visits by site visitors.</p>\n"
+"                <p>These campaigns can be based on advanced rules that allow complete control over what content is displayed to users.</p>"
+msgstr ""
+"\n"
+"                <p>As campanhas <strong>Click-to-donate</strong> são um tipo de conteúdo especial que permitem a contabilização de visitas por parte dos visitantes do site.</p>\n"
+"                <p>Estas campanhas podem ser baseadas em regras avançadas que permitem um controlo total sobre o conteúdo que é apresentado aos utilizadores.</p>"
+
+#: ../php/ClickToDonateView.php:200
+msgid ""
+"\n"
+"                <p>Each campaign can have one of four possible states:\n"
+"                    <ul>\n"
+"                        <li><strong>Online</strong> - for the campaign that are active and can be viewed by visitors</li>\n"
+"                        <li><strong>Completed</strong> - for campaigns that are completed</li>\n"
+"                        <li><strong>Scheduled</strong> - for campaigns that have not yet started</li>\n"
+"                        <li><strong>Unavailable</strong> - for campaigns that are not yet available (eg drafts)</li>\n"
+"                    </ul>\n"
+"                </p>"
+msgstr ""
+"\n"
+"                <p>Cada campanha pode ter um de quatro estados possíveis:\n"
+"                    <ul>\n"
+"                        <li><strong>Disponível</strong> - para campanha que estão ativas e que podem ser visualizadas por visitantes</li>\n"
+"                        <li><strong>Concluída</strong> - para campanhas que estão terminadas</li>\n"
+"                        <li><strong>Agendada</strong> - para campanhas que ainda não iniciaram</li>\n"
+"                        <li><strong>Não disponível</strong> - para campanhas que ainda não foram disponibilizadas (por exemplo, rascunhos)</li>\n"
+"                    </ul>\n"
+"                </p>"
+
+#: ../php/ClickToDonateView.php:210
+msgid "<p>On this screen you can search, edit, delete and create new campaigns.</p>"
+msgstr "<p>Neste ecrã pode pesquisar, editar, eliminar e criar novas campaigns.</p>"
+
+#: ../php/ClickToDonateView.php:214
+#, php-format
+msgid ""
+"\n"
+"                <p>The button %1$s on the WYSIWYG editor can be used to create special links for access to the campaigns.</p>\n"
+"                <p>Start by selecting the object (eg text or image) to which you want the link, and click the button %1$s in the editor.</p>\n"
+"                <p>In the <strong>Click to Donate Campaign link</strong> select the campaign for which the link should point and click <strong>Add link</strong>.</p>\n"
+"                <p>The system will actively monitor the content that links to campaigns, hiding or displaying the content according to the status of the respective campaigns.</p>\n"
+"                <p>With this system you can create advanced scenarios with campaigns associated with other campaigns, with the necessary individual restrictions.</p>\n"
+"                "
+msgstr ""
+"\n"
+"                <p>O botão %1$s do editor WYSIWYG pode ser utilizado para criar hiperligações especiais de acesso a campanhas.</p>\n"
+"                <p>Começe por selecionar o objecto (por exemplo texto ou imagem) ao qual pretende associar a hiperligação, e ative o botão %1$s no editor.</p>\n"
+"                <p>Na janela <strong>Ligação para campanha Click to Donate</strong> selecione a campanha para a qual a hiperligação deve apontar e pressione <strong>Adicionar hiperligação</strong>.</p>\n"
+"                <p>O sistema irá monitorizar ativamente o conteúdo ao qual as hiperligações para campanhas, ocultando ou mostrando o conteúdo consoante o estado das respetivas campanhas.</p>\n"
+"                <p>Com este sistema é possível criar cenários avançados de campanhas associadas a outras campanhas, com restrições individuais à medida das necessidades.</p>\n"
+"                "
+
+#: ../php/ClickToDonateView.php:225
+msgid ""
+"\n"
+"                <p>The <strong>Campaign Setup</strong> panel can used to set the properties and constraints associated with a campaign:\n"
+"                    <ul>\n"
+"                        <li><strong>Require visitor authentication</strong> - specifies that visitors must authenticate on the system so they can visit a given campaign.</li>\n"
+"                        <li><strong>Cooling-off period</strong> - specifies the minimum time interval between visits from a visitor to a given campaign, for access and accounting purposes. \n"
+"                        Control of this minimum time can be done using two different mechanisms:\n"
+"                            <ul>\n"
+"                                <li><strong>Restrict by cookie</strong> - the imposition of the time interval between access is controlled via a cookie (a small file stored on the client browser, but is unreliable for advanced users).</li>\n"
+"                                <li><strong>Restrict by login</strong> - the user must be authenticate on the system to visit the campaign, and the control of the time interval is made ​​using authentication, where the visit is associated with the user (more reliable, but requires that the user is logged into the site so that their visit is registered).</li>\n"
+"                            </ul>\n"
+"                        </li>\n"
+"                        <li><strong>Limit the number of clicks</strong> - sets the maximum number of visits until campaign completion (useful for removal of a campaign that reaches the ceiling set by the sponsors).</li>\n"
+"                        <li><strong>Campaign start date</strong> - set the date (and time) for the beginning of the campaign, at which time it will be automatically available to visitors.</li>\n"
+"                        <li><strong>Campaign end date</strong> - set the date (and time) for the end of the campaign, at which time it will no longer be available to visitors.</li>\n"
+"                        <li><strong>Status</strong> - the status of the campaign:\n"
+"                            <ul>\n"
+"                                <li><strong>Online</strong> - for the campaign that are active and can be viewed by visitors</li>\n"
+"                                <li><strong>Completed</strong> - for campaigns that are completed</li>\n"
+"                                <li><strong>Scheduled</strong> - for campaigns that have not yet started</li>\n"
+"                                <li><strong>Unavailable</strong> - for campaigns that are not yet available (eg drafts)</li>\n"
+"                            </ul>\n"
+"                        </li>\n"
+"                    </ul>\n"
+"                </p>"
+msgstr ""
+"\n"
+"                <p>No painel de <strong>Configuração da campanha</strong> pode definir as propriedades e restrições associadas a uma campanha:\n"
+"                    <ul>\n"
+"                        <li><strong>Forçar autenticação dos visitantes</strong> - especifica que os visitantes devem autenticar-se no sistema para que possam visitar uma dada campanha.</li>\n"
+"                        <li><strong>Periodo de espera</strong> - especifica o intervalo de tempo mínimo entre visitas de um dado visitante, a uma dada campanha, para efeitos de contabilização e de acesso. \n"
+"                        O controle deste tempo mínimo pode ser feito com recurso a dois mecanismos diferentes:\n"
+"                            <ul>\n"
+"                                <li><strong>Restringir por cookie</strong> - a imposição do intervalo de tempo entre acessos é controlada através de uma cookie (um pequeno ficheiro armazenado no navegador do cliente, mas que é falível para utilizadores avançados).</li>\n"
+"                                <li><strong>Restringir por autenticação</strong> - o utilizador deve autenticar-se no sistema para visitar a campanha, sendo o controlo da restrição do intervalo de tempo feito com recurso a autenticação, onde a visita é associada ao utilizador (mais fidedigno, mas obriga a que o utilizador esteja autenticado no site para que a sua visita seja contabilizada).</li>\n"
+"                            </ul>\n"
+"                        </li>\n"
+"                        <li><strong>Limite do número de cliques</strong> - define o limite do número de visitas até uma campanha estar concluída. Útil para que uma campanha que atinja o plafond definido pelos patrocinadores deixe de estar disponível.</li>\n"
+"                        <li><strong>Data de início da campanha</strong> - define a data (e hora) de início da campanha, momento em que a mesma passará a estar automaticamente disponível aos visitantes.</li>\n"
+"                        <li><strong>Definir a data de fim da campanha</strong> - define a data (e hora) de fim da campanha, momento em que a mesma deixará de estar disponível aos visitantes.</li>\n"
+"                        <li><strong>Estado</strong> - o estado da campanha:\n"
+"                            <ul>\n"
+"                                <li><strong>Disponível</strong> - para campanha que estão ativas e que podem ser visualizadas por visitantes</li>\n"
+"                                <li><strong>Concluída</strong> - para campanhas que estão terminadas</li>\n"
+"                                <li><strong>Agendada</strong> - para campanhas que ainda não iniciaram</li>\n"
+"                                <li><strong>Não disponível</strong> - para campanhas que ainda não foram disponibilizadas (por exemplo, rascunhos)</li>\n"
+"                            </ul>\n"
+"                        </li>\n"
+"                    </ul>\n"
+"                </p>"
+
+#: ../php/ClickToDonateView.php:328
+msgid "Campaign:"
+msgstr "Campanha:"
+
+#: ../php/ClickToDonateView.php:331
+msgid "Title"
+msgstr "Título"
+
+#: ../php/ClickToDonateView.php:334
+msgid "Open link in a new window/tab"
+msgstr "Abrir em uma nova janela ou separador"
+
+#: ../php/ClickToDonateView.php:338
+msgid "Link to existing content"
+msgstr "Ligação para conteúdo existente"
+
+#: ../php/ClickToDonateView.php:342
+msgid "Filter"
+msgstr "Filtrar"
+
+#: ../php/ClickToDonateView.php:354
+msgid "No search term specified. Showing recent items."
+msgstr "Não foi especificado um termo de pesquisa. A mostrar os itens recentes."
+
+#: ../php/ClickToDonateView.php:364
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../php/ClickToDonateView.php:435
+msgid "Save"
+msgstr "Guardar"
+
+#: ../php/ClickToDonateView.php:449
+#: ../php/ClickToDonateView.php:455
+msgid "Preview"
+msgstr "Prever"
+
+#: ../php/ClickToDonateView.php:490
+msgid "Require visitor authentication"
+msgstr "Forçar autenticação dos visitantes"
+
+#: ../php/ClickToDonateView.php:493
+msgid "Cooling-off period"
+msgstr "Periodo de espera"
+
+#: ../php/ClickToDonateView.php:528
+msgid "Cooling-off period:"
+msgstr "Periodo de espera:"
+
+#: ../php/ClickToDonateView.php:532
+msgid "Second(s)"
+msgstr "Segundo(s)"
+
+#: ../php/ClickToDonateView.php:533
+msgid "Minute(s)"
+msgstr "Minuto(s)"
+
+#: ../php/ClickToDonateView.php:534
+msgid "Hour(s)"
+msgstr "Hora(s)"
+
+#: ../php/ClickToDonateView.php:535
+msgid "Day(s)"
+msgstr "Dia(s)"
+
+#: ../php/ClickToDonateView.php:539
+msgid "Restrict by cookie"
+msgstr "Restringir por cookie"
+
+#: ../php/ClickToDonateView.php:540
+msgid "Restrict by login"
+msgstr "Restringir por autenticação"
+
+#: ../php/ClickToDonateView.php:546
+msgid "Limit the number of clicks"
+msgstr "Limite do número de cliques"
+
+#: ../php/ClickToDonateView.php:548
+msgid "Clicks limit:"
+msgstr "Limite de cliques:"
+
+#: ../php/ClickToDonateView.php:555
+msgid "Set the campaign start date"
+msgstr "Definir a data de início da campanha"
+
+#: ../php/ClickToDonateView.php:558
+msgid "Start date:"
+msgstr "Data de início:"
+
+#: ../php/ClickToDonateView.php:566
+msgid "Set the campaign end date"
+msgstr "Definir a data de fim da campanha"
+
+#: ../php/ClickToDonateView.php:569
+msgid "End date:"
+msgstr "Data de fim:"
+
+#: ../php/ClickToDonateView.php:583
+msgid "Status:"
+msgstr "Estado:"
+
+#: ../php/ClickToDonateView.php:586
+#: ../php/ClickToDonateController.php:115
+msgid "Online"
+msgstr "Disponível"
+
+#: ../php/ClickToDonateView.php:587
+msgid "Completed"
+msgstr "Concluído"
+
+#: ../php/ClickToDonateView.php:588
+#: ../php/ClickToDonateController.php:128
+msgid "Scheduled"
+msgstr "Agendado"
+
+#: ../php/ClickToDonateView.php:590
+#: ../php/ClickToDonateView.php:592
+#: ../php/ClickToDonateController.php:154
+msgid "Unavailable"
+msgstr "Não disponível"
+
+#: ../php/ClickToDonateView.php:607
+msgid "Delete Permanently"
+msgstr "Eliminar Permanentemente"
+
+#: ../php/ClickToDonateView.php:609
+msgid "Move to Trash"
+msgstr "Mover para o lixo"
+
+#: ../php/ClickToDonateView.php:621
+msgid "Schedule"
+msgstr "Agendar"
+
+#: ../php/ClickToDonateView.php:624
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../php/ClickToDonateView.php:765
+msgid "Sorry, but the URL for this campaign is invalid."
+msgstr "Pedimos desculpa, mas a URL para esta campanha é inválida."
+
+#: ../php/ClickToDonateView.php:769
+#, php-format
+msgid "You must %s in the site to validate your visit."
+msgstr "Deve %s no site para validar a sua visita."
+
+#: ../php/ClickToDonateView.php:769
+msgid "Follow the link to login in the site"
+msgstr "Siga a hiperligação para se autenticar no site"
+
+#: ../php/ClickToDonateView.php:769
+msgid "login"
+msgstr "autenticar-se"
+
+#: ../php/ClickToDonateView.php:773
+msgid "Thanks for visiting, but this campaign has been completed."
+msgstr "Obrigado pela visita, mas esta campainha já terminou."
+
+#: ../php/ClickToDonateView.php:777
+msgid "Thanks for visiting, but this campaign has not started."
+msgstr "Obrigado pela visita, mas esta campanha ainda não começou."
+
+#: ../php/ClickToDonateView.php:780
+msgid "Thanks for visiting, but this campaign is not available."
+msgstr "Obrigado pela visita, mas esta campanha não está disponível."
+
+#: ../php/ClickToDonateView.php:784
+#, php-format
+msgid "Thanks for visiting, but this campaign has already been visited by you recently. Please try again in %s."
+msgstr "Obrigado pela visita, mas esta campanha já foi visitada por si recentemente. Por favor, tente novamente em %s."
+
+#: ../php/ClickToDonateView.php:789
+msgid "<br/>Visit registered."
+msgstr "<br/>Visita registada."
+
+#: ../php/ClickToDonateView.php:797
+msgid "Unable to register the visit. Please try again later."
+msgstr "Não foi possível registar a visita. Por favor, tente novamente mais tarde."
+
+#: ../php/ClickToDonateView.php:868
+#, php-format
+msgid "%s days"
+msgstr "%s dia(s)"
+
+#: ../php/ClickToDonateView.php:871
+#, php-format
+msgid "%s hours"
+msgstr "%s hora(s)"
+
+#: ../php/ClickToDonateView.php:874
+#, php-format
+msgid "%s minutes"
+msgstr "%s minuto(s)"
+
+#: ../php/ClickToDonateView.php:877
+#, php-format
+msgid "%s seconds"
+msgstr "%s segundo(s)"
+
+#: ../php/ClickToDonateGraphParticipantsView.php:130
+msgid "Campaigns user rankings"
+msgstr "Classificações dos utilizadores nas campanhas"
+
+#: ../php/ClickToDonateGraphParticipantsView.php:140
+msgid "Campaign user rankings"
+msgstr "Classificações do utilizador na campanha"
+
+#: ../php/ClickToDonateGraphParticipantsView.php:204
+msgid "Position"
+msgstr "Posição"
+
+#: ../php/ClickToDonateGraphParticipantsView.php:204
+msgid "User"
+msgstr "Utilizador"
+
+#: ../php/ClickToDonateGraphParticipantsView.php:204
+msgid "Participations"
+msgstr "Participações"
+
+#: ../php/ClickToDonateController.php:85
+msgid "Campaigns"
+msgstr "Campanhas"
+
+#: ../php/ClickToDonateController.php:86
+msgid "Campaign"
+msgstr "Campanha"
+
+#: ../php/ClickToDonateController.php:87
+msgid "Add new"
+msgstr "Adicionar nova"
+
+#: ../php/ClickToDonateController.php:88
+msgid "Add new campaign"
+msgstr "Adicionar nova campanha"
+
+#: ../php/ClickToDonateController.php:89
+msgid "Edit campaign"
+msgstr "Editar campanha"
+
+#: ../php/ClickToDonateController.php:90
+msgid "New campaign"
+msgstr "Nova campanha"
+
+#: ../php/ClickToDonateController.php:91
+msgid "View campaign"
+msgstr "Ver campanha"
+
+#: ../php/ClickToDonateController.php:92
+msgid "Search campaigns"
+msgstr "Pesquisar por campanhas"
+
+#: ../php/ClickToDonateController.php:93
+msgid "No campaign found"
+msgstr "Não foram encontradas campanhas"
+
+#: ../php/ClickToDonateController.php:94
+msgid "No campaigns were found on the recycle bin"
+msgstr "Não foram encontradas campanhas na reciclagem"
+
+#: ../php/ClickToDonateController.php:96
+msgid "Click to donate campaigns"
+msgstr "Clique para doar para as campanhas"
+
+#: ../php/ClickToDonateController.php:122
+#, php-format
+msgid "Online <span class=\"count\">(%s)</span>"
+msgid_plural "Online <span class=\"count\">(%s)</span>"
+msgstr[0] "Disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Disponível <span class=\"count\">(%s)</span>"
+
+#: ../php/ClickToDonateController.php:135
+#, php-format
+msgid "Scheduled <span class=\"count\">(%s)</span>"
+msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
+msgstr[0] "Agendado <span class=\"count\">(%s)</span>"
+msgstr[1] "Agendado <span class=\"count\">(%s)</span>"
+
+#: ../php/ClickToDonateController.php:141
+msgid "Finished"
+msgstr "Concluído"
+
+#: ../php/ClickToDonateController.php:148
+#, php-format
+msgid "Finished <span class=\"count\">(%s)</span>"
+msgid_plural "Finished <span class=\"count\">(%s)</span>"
+msgstr[0] "Concluído <span class=\"count\">(%s)</span>"
+msgstr[1] "Concluído <span class=\"count\">(%s)</span>"
+
+#: ../php/ClickToDonateController.php:161
+#, php-format
+msgid "Unavailable <span class=\"count\">(%s)</span>"
+msgid_plural "Unavailable <span class=\"count\">(%s)</span>"
+msgstr[0] "Não disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Não disponível <span class=\"count\">(%s)</span>"
+
+#: ../php/langs/wp-langs.php:3
+msgid "Click to Donate Campaign link"
+msgstr "Ligação para campanha Click to Donate"
+
+#: ../php/langs/wp-langs.php:4
+msgid "Click to associate a Click to Donate Campaign"
+msgstr "Clique para associar a uma campanha Click to donate"
+
+#: ../php/langs/wp-langs.php:5
+msgid "Insert"
+msgstr "Inserir"
+
+#~ msgid "Campaign rankings"
+#~ msgstr "Classificações da campanha"
+
+#~ msgid "User (and position)"
+#~ msgstr "Utilizador (e posição)"
+
+#~ msgid "Total clicks"
+#~ msgstr "Número total de cliques"
+
+#~ msgid "year"
+#~ msgstr "ano"
+
+#~ msgid "month"
+#~ msgstr "mês"
+
+#~ msgid "day"
+#~ msgstr "dia"
+
+#~ msgid "Preview Changes"
+#~ msgstr "Prever Alterações"
+
+#~ msgid "Views: %s"
+#~ msgstr "Visualizações: %s"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "File repository permissions"
+#~ msgstr "Permissões no repositório de ficheiros"
+
+#~ msgid "Permission to view the files on the repository."
+#~ msgstr "Permissão para aceder aos ficheiros no repositório."
+
+#~ msgid "Upload files"
+#~ msgstr "Enviar ficheiros"
+
+#~ msgid "Permission to upload files into the repository."
+#~ msgstr "Permissão para enviar ficheiros para o repositório."
+
+#~ msgid "File repository"
+#~ msgstr "Repositório de ficheiros"
+
+#~ msgid "Repository"
+#~ msgstr "Repositório"
+
+#~ msgid "Upload file"
+#~ msgstr "Enviar ficheiro"
+
+#~ msgid "New file"
+#~ msgstr "Novo ficheiro"
+
+#~ msgid "Create new directory"
+#~ msgstr "Criar nova pasta"
+
+#~ msgid "New directory"
+#~ msgstr "Nova pasta"
+
+#~ msgid "Error while saving the changes."
+#~ msgstr "Erro ao guardar as alterações"
+
+#~ msgid "You do not have permission to view this files."
+#~ msgstr "Não ter permissões para visualizar estes ficheiros."
+
+#~ msgid "Files Repository"
+#~ msgstr "Repositório de Ficheiros"
+
+#~ msgid "%s file(s) deleted"
+#~ msgstr "%s ficheiro(s) eliminado(s)"
+
+#~ msgid "You do not have permission to upload files to this area."
+#~ msgstr "Não tem permissões para enviar ficheiros para esta área"
+
+#~ msgid "File uploaded to the repository"
+#~ msgstr "Ficheiro enviado para o repositório"
+
+#~ msgid "The uploaded file is not readable"
+#~ msgstr "O ficheiro enviado não é legível"
+
+#~ msgid "The uploaded file exceeds the upload_max_filesize"
+#~ msgstr "O ficheiro enviado excede o valor máximo de upload_max_filesize"
+
+#~ msgid ""
+#~ "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified "
+#~ "in the HTML form"
+#~ msgstr ""
+#~ "O ficheiro enviado excede a diretiva MAX_FILE_SIZE especificada no "
+#~ "formulário HTML"
+
+#~ msgid "The uploaded file was only partially uploaded"
+#~ msgstr "O ficheiro foi parcialmente enviado"
+
+#~ msgid "No file was uploaded"
+#~ msgstr "Nenhum ficheiro foi enviado"
+
+#~ msgid "Missing a temporary folder"
+#~ msgstr "Diretório temporário inexistente"
+
+#~ msgid "Failed to write file to disk"
+#~ msgstr "Falhou a escrita do ficheiro para o disco"
+
+#~ msgid "A PHP extension stopped the file upload"
+#~ msgstr "Uma extensão PHP cancelou o envio do ficheiro"
+
+#~ msgid "Error occurred: %s"
+#~ msgstr "Ocorreu um erro: %s"
+
+#~ msgid "Filename (optional)"
+#~ msgstr "Nome do ficheiro (opcional)"
+
+#~ msgid "Parent"
+#~ msgstr "Pasta"
+
+#~ msgid "Upload"
+#~ msgstr "Envio"
+
+#~ msgid "Maximum upload file size: %s"
+#~ msgstr "Tamanho máximo dos ficheiros a enviar: %s"
+
+#~ msgid "File uploads with this method are not supported"
+#~ msgstr "Não são suportados envio de ficheiros com este método"
+
+#~ msgid "A directory name must be specified"
+#~ msgstr "Tem de ser especificado um nome para a oasta"
+
+#~ msgid "Invalid item identifier"
+#~ msgstr "Identificador inválido"
+
+#~ msgid "Directory created on the repository"
+#~ msgstr "Directório criado no repositório"
+
+#~ msgid "Directory name"
+#~ msgstr "Nome da pasta"
+
+#~ msgid "Error!"
+#~ msgstr "Erro!"
+
+#~ msgid "Root"
+#~ msgstr "Raiz"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Size"
+#~ msgstr "Tamanho"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Delete"
+#~ msgstr "Eliminar"
+
+#~ msgid "Download"
+#~ msgstr "Transferir"
+
+#~ msgid "Open directory"
+#~ msgstr "Abrir pasta"
+
+#~ msgid "View"
+#~ msgstr "Visualizar"
+
+#~ msgid "(%s items)"
+#~ msgstr "(%s itens)"
+
+#~ msgid "Files View"
+#~ msgstr "Vista de ficheiros"
+
+#~ msgid "Folder View"
+#~ msgstr "Vista de pastas"
+
+#~ msgid "Back"
+#~ msgstr "Voltar"
+
+#~ msgid "Show %d items"
+#~ msgstr "Mostrar %d itens"
+
+#~ msgid "Show all items"
+#~ msgstr "Mostrar todos os itens"
+
+#~ msgid "Item name (optional)"
+#~ msgstr "Nome do item (opcional)"
+
+#~ msgid "Folder"
+#~ msgstr "Pasta"
+
+#~ msgid "File"
+#~ msgstr "Ficheiro"
+
+#~ msgid "Parent folder"
+#~ msgstr "Pasta pai"
+
+#~ msgid "Login Form Widget"
+#~ msgstr "Formulário de Autenticação"
+
+#~ msgid "A widget with a widget login form"
+#~ msgstr "Um componente com um formulário de autenticação"
+
+#~ msgid "Login Form"
+#~ msgstr "Autenticação"
+
+#~ msgid "Site Admin"
+#~ msgstr "Área reservada do Site"
+
+#~ msgid "Your blogs:"
+#~ msgstr "Os seus blogues:"
+
+#~ msgid "Log Out"
+#~ msgstr "Terminar Sessão"
+
+#~ msgid "Sign In"
+#~ msgstr "Iniciar Sessão"
+
+#~ msgid "Password"
+#~ msgstr "Senha"
+
+#~ msgid "Hello %s!"
+#~ msgstr "Olá %s!"
+
+#~ msgid "A widget to list specific posts under a category"
+#~ msgstr "Um widget para listar os artigos sob uma determinada categoria"
+
+#~ msgid "Posts by Category"
+#~ msgstr "Artigos por Categoria"
+
+#~ msgid "Category:"
+#~ msgstr "Categoria:"
+
+#~ msgid "Posts to show:"
+#~ msgstr "Artigos a mostrar:"
+
+#~ msgid "WP_GMaps2 options page"
+#~ msgstr "Página de opções do WP_GMaps2"
+
+#~ msgid "Options saved"
+#~ msgstr "Opções guardadas"
+
+#~ msgid "WP GMaps Options"
+#~ msgstr "Opções do WP GMaps"
+
+#~ msgid "Google Maps Key"
+#~ msgstr "Chave da API do Google Maps"
+
+#~ msgid "Please enter a Google Maps API key. (<a %s>Get your key</a>)"
+#~ msgstr ""
+#~ "Por favor introduza a chave da API do Google Maps. (<a %s>Obtenha a sua "
+#~ "chave</a>)"
+
+#~ msgid "What is this"
+#~ msgstr "O que é isto"
+
+#~ msgid ""
+#~ "You must <a %1$s>enter your Google Maps API key</a> for <strong>WP GMaps</"
+#~ "strong> to work."
+#~ msgstr ""
+#~ "Deve <a %1$s>introduzir a sua chave para a API do Google Maps</a> para "
+#~ "que o <strong>WP GMaps</strong> funcione."
